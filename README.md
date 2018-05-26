@@ -16,7 +16,7 @@ The Capstone is a two-staged project. The first is the proposal component, where
 
 **Note**
 
-i provide already download code in notebook the i rename those files as train.zip and test.zip the actual file name of data is stage1_train.zip and stage1_test.zip if you danload dataset in hear so the folder name is  stage1_train.zip and stage1_test.zip
+I provide already download code in notebook the i rename those files as train.zip and test.zip the actual file name of data is stage1_train.zip and stage1_test.zip if you danload dataset in hear so the folder name is  stage1_train.zip and stage1_test.zip
 
 2.Following are the details of Software environments with version details :
 
