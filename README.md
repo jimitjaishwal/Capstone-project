@@ -1,6 +1,6 @@
 # Machine Learning Engineer Nanodegree
 ## Specializations
-## Project: Capstone Proposal and Capstone Project - Udacity MLND(Find_the_nuclei_in_divergent_images_to_advance_medical_discovery)
+## Project: Capstone Proposal and Capstone Project - Udacity MLND(Find the nuclei in divergent images to advance medical discovery)
 
 **Note**
 
